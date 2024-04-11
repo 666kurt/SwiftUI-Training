@@ -16,6 +16,8 @@
 		FCF6B47C2BC5373D00F5C8A2 /* Gradient_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF6B47B2BC5373D00F5C8A2 /* Gradient_SwiftUI.swift */; };
 		FCF6B47E2BC538CF00F5C8A2 /* Icons_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF6B47D2BC538CF00F5C8A2 /* Icons_SwiftUI.swift */; };
 		FCF6B4802BC53A3F00F5C8A2 /* Images_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF6B47F2BC53A3F00F5C8A2 /* Images_SwiftUI.swift */; };
+		FCF6B4822BC659FE00F5C8A2 /* Frame_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF6B4812BC659FE00F5C8A2 /* Frame_SwiftUI.swift */; };
+		FCF6B4842BC7DECF00F5C8A2 /* Background&Overlay_SwiftUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = FCF6B4832BC7DECF00F5C8A2 /* Background&Overlay_SwiftUI.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +31,8 @@
 		FCF6B47B2BC5373D00F5C8A2 /* Gradient_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gradient_SwiftUI.swift; sourceTree = "<group>"; };
 		FCF6B47D2BC538CF00F5C8A2 /* Icons_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Icons_SwiftUI.swift; sourceTree = "<group>"; };
 		FCF6B47F2BC53A3F00F5C8A2 /* Images_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Images_SwiftUI.swift; sourceTree = "<group>"; };
+		FCF6B4812BC659FE00F5C8A2 /* Frame_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Frame_SwiftUI.swift; sourceTree = "<group>"; };
+		FCF6B4832BC7DECF00F5C8A2 /* Background&Overlay_SwiftUI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Background&Overlay_SwiftUI.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +72,8 @@
 				FCF6B47B2BC5373D00F5C8A2 /* Gradient_SwiftUI.swift */,
 				FCF6B47D2BC538CF00F5C8A2 /* Icons_SwiftUI.swift */,
 				FCF6B47F2BC53A3F00F5C8A2 /* Images_SwiftUI.swift */,
+				FCF6B4812BC659FE00F5C8A2 /* Frame_SwiftUI.swift */,
+				FCF6B4832BC7DECF00F5C8A2 /* Background&Overlay_SwiftUI.swift */,
 				FC7F19D32BC48AD500B85203 /* Assets.xcassets */,
 				FC7F19D52BC48AD500B85203 /* Preview Content */,
 			);
@@ -155,6 +161,8 @@
 				FC7F19D22BC48AD300B85203 /* Text_SwiftUI.swift in Sources */,
 				FC7F19D02BC48AD300B85203 /* SwiftUI_TrainingApp.swift in Sources */,
 				FCF6B4802BC53A3F00F5C8A2 /* Images_SwiftUI.swift in Sources */,
+				FCF6B4842BC7DECF00F5C8A2 /* Background&Overlay_SwiftUI.swift in Sources */,
+				FCF6B4822BC659FE00F5C8A2 /* Frame_SwiftUI.swift in Sources */,
 				FCF6B4782BC5320700F5C8A2 /* Shape_SwiftUI.swift in Sources */,
 				FCF6B47A2BC534CD00F5C8A2 /* Color_SwiftUI.swift in Sources */,
 				FCF6B47E2BC538CF00F5C8A2 /* Icons_SwiftUI.swift in Sources */,
